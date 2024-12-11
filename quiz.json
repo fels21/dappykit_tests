@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of Ethereum with this quiz.",
+  "questions": [
+    {
+      "question": "What is ETH?",
+      "answers": ["Token", "Coin", "NFT"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created Ethereum?",
+      "answers": ["Buterin", "Satoshi", "Gavin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a smart contract?",
+      "answers": ["Code", "Paper", "Block"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does EVM stand for?",
+      "answers": ["Machine", "Model", "Manager"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is gas in Ethereum?",
+      "answers": ["Fee", "Coin", "Block"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ether?",
+      "answers": ["Asset", "Chain", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Gwei?",
+      "answers": ["Unit", "Block", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Ethereum uses PoS. What is it?",
+      "answers": ["Stake", "Solve", "Store"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DApp?",
+      "answers": ["App", "Wallet", "Chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is ERC-20?",
+      "answers": ["Token", "NFT", "Chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is ETH 2.0?",
+      "answers": ["Upgrade", "Chain", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does DeFi stand for?",
+      "answers": ["Finance", "Future", "Fees"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a node?",
+      "answers": ["Server", "Miner", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Solidity?",
+      "answers": ["Code", "Chain", "Wallet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Metamask?",
+      "answers": ["Wallet", "Token", "App"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a DAO?",
+      "answers": ["Group", "Chain", "Block"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an NFT?",
+      "answers": ["Token", "Wallet", "Fee"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was Ethereum launched?",
+      "answers": ["2015", "2013", "2017"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Layer 2?",
+      "answers": ["Scaling", "Staking", "Mining"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Vitalik's role?",
+      "answers": ["Founder", "Miner", "Trader"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
